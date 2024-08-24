@@ -1,4 +1,6 @@
 .snakemake
 test/
-logs/
+log/
+config/
 slurm-*.out
+snakevision_rulegraph.bash

@@ -76,6 +76,10 @@ scenarios:
             3
 ```
 
+## Workflow
+
+<img src="img/SnakePolyester_rulegraph.svg" width=70% align="center">
+
 ## Output files
 
 - `benchmark`: [Benchmarking](https://snakemake.readthedocs.io/en/stable/tutorial/additional_features.html) results.
